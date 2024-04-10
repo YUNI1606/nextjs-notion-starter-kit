@@ -17,9 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  Instagram: 'jiayunyang_',
   github: 'nextjs-notion-starter-kit',
-  youtube:'Jiayun Yang',
+  youtube:'JiayunYang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
